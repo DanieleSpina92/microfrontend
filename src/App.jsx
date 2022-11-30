@@ -6,6 +6,7 @@ import "./index.css";
 
 const App = () => (
   <div className="container">
+    <h2>ciao</h2>
      <Counter/>
   </div>
 );
